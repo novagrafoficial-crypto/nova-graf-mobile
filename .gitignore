@@ -42,3 +42,4 @@ example
 # generated native folders
 /ios
 /android
+# Crear rama git checkout maingit branch -d nombre-de-la-rama
